@@ -1,0 +1,108 @@
+/* .col {
+    border: 1px dashed red;
+    padding: 0;
+} */
+
+/*--Main Style--*/
+
+article {
+    background-image: url(../images/vintage-concrete.png);
+    background-repeat: repeat;
+    height: 100vh;
+    padding-top: 1px;
+    }
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #666666;
+    border-top: solid 8px;
+    border-color: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+}
+
+nav {
+    border-bottom: 1px solid #cccccc;
+}
+
+ul {
+    float: right;
+    padding-top: 20px;
+}
+
+
+.badge {
+    padding: 0;
+}
+
+.container {
+    padding: 0;
+}
+
+.h1, .h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.h1 {
+    padding: 10px 15px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    margin-bottom: 0px;
+}
+
+.h2 {
+    padding-top: 10px;
+    color: #4aaaa5;
+}
+
+.header {
+    border-bottom: 2px solid #dddddd;
+    padding: 10px 0;
+    margin-bottom: 20px;
+}
+
+.inner {
+    border: 1px solid #dddddd;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+.info {
+    padding: 0px 10px;
+}
+
+
+.info p {
+    color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav-item {
+    padding-left: 30px;
+}
+
+.nav-link {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #777777;
+}
+
+.wrapper {
+    background-color: #ffffff;
+    width: 960;
+    margin-top: 50px;
+}
+
+
+
+
