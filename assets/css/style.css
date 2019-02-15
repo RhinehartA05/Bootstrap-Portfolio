@@ -8,13 +8,19 @@
 article {
     background-image: url(../images/vintage-concrete.png);
     background-repeat: repeat;
-    height: 100vh;
+    height: 120vh;
     padding-top: 1px;
+    
     }
 
 body {
     margin: 0;
     padding: 0;
+}
+
+.btn {
+    background-color: #4aaaa5;
+    color: #ffffff;
 }
 
 footer {
@@ -44,11 +50,26 @@ ul {
     padding: 0;
 }
 
+.banner {
+    position: relative;
+    left: 0px;
+    bottom: 60px;
+}
+
+.col h2 {
+    color: #ffffff;
+}
+
 .container {
     padding: 0;
 }
 
-.h1, .h2 {
+.form-group {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+}
+
+.h1, .h2, .h4 {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
@@ -64,11 +85,27 @@ ul {
     color: #4aaaa5;
 }
 
+.h4 {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    padding: 10px 0;
+    text-align: center;
+    min-width: 100%;
+    
+}
+
 .header {
     border-bottom: 2px solid #dddddd;
     padding: 10px 0;
     margin-bottom: 20px;
 }
+
+
+.img-inner {
+    height: 220px;
+}
+
+
 
 .inner {
     border: 1px solid #dddddd;
